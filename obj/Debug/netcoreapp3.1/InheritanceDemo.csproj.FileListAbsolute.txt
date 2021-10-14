@@ -1,0 +1,12 @@
+C:\Users\adminvm.adminvm\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.exe
+C:\Users\adminvm.adminvm\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.deps.json
+C:\Users\adminvm.adminvm\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.dll
+C:\Users\adminvm.adminvm\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\netcoreapp3.1\InheritanceDemo.pdb
+C:\Users\adminvm.adminvm\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.dll
+C:\Users\adminvm.adminvm\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.pdb
+C:\Users\adminvm.adminvm\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\netcoreapp3.1\InheritanceDemo.genruntimeconfig.cache
