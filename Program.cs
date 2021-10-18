@@ -44,7 +44,10 @@ namespace InheritanceDemo
             FullTimeEmployeeWithMO fullTimeEmployee = new FullTimeEmployeeWithMO();
             fullTimeEmployee.GetDetails();
             fullTimeEmployee.DisplayDetails();
-            
+
+
+            PartTimeEmployeeWithMO p = new PartTimeEmployeeWithMO(
+                10, "Lalit", "HR", 25000, "Project 1","2 months");
         }
     }
 }

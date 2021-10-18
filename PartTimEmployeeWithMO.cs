@@ -8,6 +8,18 @@ namespace InheritanceDemo
     {
         string duration;
         string projectName;
+        public PartTimeEmployeeWithMO():base (){}
+        public PartTimeEmployeeWithMO(int id, 
+            string name, 
+            string dept, 
+            int salary,
+            string projectName,
+            string duration) : base (id, name, dept , salary)
+        { 
+            this.projectName = projectName;
+            this.duration = duration;
+        }
+        
         public void GetDetails()
         {
             base.GetDetails();
